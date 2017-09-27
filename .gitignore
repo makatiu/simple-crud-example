@@ -2,3 +2,5 @@
 .DS_Store
 .classpath
 .git
+/.settings/*
+derby.log
